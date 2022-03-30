@@ -1,0 +1,7 @@
+React Udemy Theory
+
+- If we need to update state that is based on the previous state it is safer
+ to save the state using a function in the setState so it will be based on the previous value
+
+ - Controlled/smart/stateful components vs dumb/presentation/stateless components - when the 
+ components manage the state or only present it
